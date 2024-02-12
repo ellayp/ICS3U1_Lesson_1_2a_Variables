@@ -6,11 +6,15 @@ class VariablesTypes extends ConsoleProgram {
     score = 0;
 
     int fouls = 0;
+    fouls = 3
 
     //define a string variable
-    // Assign a value to firstName
-   //Print out the value of the String variable
+    String firstName;
 
+    // Assign a value to firstName
+    firstName = "Ella";
+   //Print out the value of the String variable
+   System.out.println(firstName);
     
   }
 }
